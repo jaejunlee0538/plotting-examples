@@ -64,6 +64,18 @@ From `example_data/non_gridded_2D.txt`. The data file contains rows of `(x,y,z)`
 
 From `example_data/five_obj_data.txt`.  Used with:
 
-* [`3D-scatter`](https://github.com/VictoriaLynn/plotting-examples/tree/master/3D-scatter): Plot data in 5 dimensions using R and Python. 
+* [`3D-scatter`](https://github.com/VictoriaLynn/plotting-examples/tree/master/3D-scatter): Plot data in 5 dimensions using R and Python.
 
 ![Image](https://github.com/VictoriaLynn/plotting-examples/blob/master/example_images/scatter_plot_3d.png)
+
+--------------------------------------------
+
+### bar3
+
+**Click image** if you want to see the source code.
+
+[![img_bar_coloring](bar3/bar_coloring.png)](bar3/bar_coloring.m)
+
+[![img_pdf_function](bar3/pdf_function.png)](bar3/pdf_function.m)
+
+[![img_tick_labeling](bar3/tick_labeling.png)](bar3/tick_labeling.m)
