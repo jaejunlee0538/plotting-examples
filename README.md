@@ -78,10 +78,20 @@ From `example_data/five_obj_data.txt`.  Used with:
 
 **Click image** if you want to see the source code.
 <p style="text-align: center">
-[<img src="bar3/bar_coloring.png"  height=300>](bar3/bar_coloring.m)
+
+<a href="bar3/bar_coloring.m">
+<img src="bar3/bar_coloring.png"  height=300>
+</a>
 <br></br>
-[<img src="bar3/pdf_function.png" height=300>](bar3/pdf_function.m)
+
+<a href="bar3/pdf_function.m">
+<img src="bar3/pdf_function.png" height=300>
+</a>
 <br></br>
-[<img src="bar3/tick_labeling.png" height=300>](bar3/tick_labeling.m)
+
+<a href="bar3/tick_labeling.m">
+[<img src="bar3/tick_labeling.png" height=300>]
+</a>
 <br></br>
+
 </p>
