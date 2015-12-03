@@ -4,6 +4,10 @@ Contributors: [VictoriaLynn](https://github.com/VictoriaLynn), [matthewjwoodruff
 
 See [`example_images`](https://github.com/jdherman/plotting-examples/tree/master/line_plot) for the outputs from these files (PNG). Note that publication-quality figures will usually require a vector graphics format (SVG/EPS/PDF) along with some manual editing to improve font clarity, etc. The examples shown here are in unedited raster format and are only meant to be illustrative.
 
+## Another useful sites
+
+* [MATLAB Plot Gallery](http://kr.mathworks.com/products/matlab/plot-gallery.html)
+
 ##### Column data
 
 From `example_data/column_data.txt`. Used with:
@@ -70,12 +74,12 @@ From `example_data/five_obj_data.txt`.  Used with:
 
 --------------------------------------------
 
-### bar3
+## bar3
 
 **Click image** if you want to see the source code.
 
-[![img_bar_coloring](bar3/bar_coloring.png)](bar3/bar_coloring.m)
+[![img_bar_coloring](bar3/bar_coloring.png | height=250)](bar3/bar_coloring.m)
 
-[![img_pdf_function](bar3/pdf_function.png)](bar3/pdf_function.m)
+[![img_pdf_function](bar3/pdf_function.png | height=250)](bar3/pdf_function.m)
 
-[![img_tick_labeling](bar3/tick_labeling.png)](bar3/tick_labeling.m)
+[![img_tick_labeling](bar3/tick_labeling.png | height=250)](bar3/tick_labeling.m)
