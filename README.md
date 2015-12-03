@@ -77,9 +77,11 @@ From `example_data/five_obj_data.txt`.  Used with:
 ## bar3
 
 **Click image** if you want to see the source code.
-
-[![img_bar_coloring](bar3/bar_coloring.png | height=250)](bar3/bar_coloring.m)
-
-[![img_pdf_function](bar3/pdf_function.png | height=250)](bar3/pdf_function.m)
-
-[![img_tick_labeling](bar3/tick_labeling.png | height=250)](bar3/tick_labeling.m)
+<p style="text-align: center">
+[<img src="bar3/bar_coloring.png"  height=300>](bar3/bar_coloring.m)
+<br></br>
+[<img src="bar3/pdf_function.png" height=300>](bar3/pdf_function.m)
+<br></br>
+[<img src="bar3/tick_labeling.png" height=300>](bar3/tick_labeling.m)
+<br></br>
+</p>
