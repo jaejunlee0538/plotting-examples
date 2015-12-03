@@ -90,7 +90,7 @@ From `example_data/five_obj_data.txt`.  Used with:
 <br></br>
 
 <a href="bar3/tick_labeling.m">
-[<img src="bar3/tick_labeling.png" height=300>]
+<img src="bar3/tick_labeling.png" height=300>
 </a>
 <br></br>
 
