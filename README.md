@@ -77,10 +77,10 @@ From `example_data/five_obj_data.txt`.  Used with:
 ## bar3
 
 **Click image** if you want to see the source code.
-<p style="text-align: center">
+<!-- <p style="text-align: center"> -->
 
 <a href="bar3/bar_coloring.m">
-<img src="bar3/bar_coloring.png"  height=300>
+<img style="float: center;" src="bar3/bar_coloring.png"  height=300>
 </a>
 <br></br>
 
@@ -94,4 +94,4 @@ From `example_data/five_obj_data.txt`.  Used with:
 </a>
 <br></br>
 
-</p>
+<!-- </p> -->
