@@ -105,3 +105,11 @@ From `example_data/five_obj_data.txt`.  Used with:
 <br></br>
 
 </p>
+
+## mean-variance bar plot
+<p align="center">
+<a href="mean_variance_plot/mean_variance_plot.m">
+<img src="mean_variance_plot/mean_variance_plot.png" height=300>
+</a>
+<br></br>
+</p>
