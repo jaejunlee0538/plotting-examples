@@ -1,0 +1,29 @@
+clear all
+load data1.txt
+load data2.txt
+load data3.txt
+load data4.txt
+y_data = {data1 data2 data3 data4};
+tick_label =  {'data1' 'data2' 'data3' 'data4'};
+%% 
+figure(1)
+set(gcf,'Color',[1 1 1])
+hold off
+[hmean, hdev] = draw_meanbar_variance({data1 data2 data3 data4});
+hmean.FaceColor = [0.3 0.3 0.3];
+hdev.Color = [1 0 0];
+hdev.LineWidth = 2;
+set(gca, 'XTickLabel', {'data1' 'data2' 'data3' 'data4'})
+
+%%
+xlabel('Data','FontSize', 15);
+ylabel('Time(sec'
+%%
+% figure(1)
+% set(gcf,'Color',[1 1 1])
+% hold off
+% % bar(x_data, mean_data, 'FaceColor', [0.5 0.5 0.5], 'EdgeColor', [0 0 0], 'LineWidth',2)
+% bar(x_data, mean_data, 'FaceColor', [0.5 0.5 0.5])
+% hold on
+% h = errorbar(x_data, mean_data, std_data, 'rx', 'LineWidth',3);
+% set(gca, 'XTickLabel',{'data1' 'data2' 'data3' 'data4'})
