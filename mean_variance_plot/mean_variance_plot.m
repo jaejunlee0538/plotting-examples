@@ -17,6 +17,6 @@ hdev.Marker = '.';      % deviation bar marker type
 hdev.MarkerSize = 40;   % deviation bar marker size
 
 set(gca, 'XTickLabel', {'data1' 'data2' 'data3' 'data4'}) % x tick label
-set(gca, 'FontSize', 15)    % tick font size
-xlabel('Data','FontSize', 20); 
-ylabel('Time(sec)', 'FontSize',20);
+set(gca, 'FontSize', 25)    % tick font size
+xlabel('Data','FontSize', 30); 
+ylabel('Time(sec)', 'FontSize',30);
